@@ -1,0 +1,22 @@
+.footer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: rgb(26, 25, 25);
+  text-align: center;
+  height: 6rem;
+}
+
+a {
+  color: rgb(155, 7, 7);
+}
+
+h2 {
+  color: wheat;
+  margin: 0.1rem;
+
+  font-weight: 400;
+  text-transform: none;
+  line-height: 1.25;
+}
