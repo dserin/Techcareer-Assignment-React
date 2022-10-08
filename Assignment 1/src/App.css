@@ -39,9 +39,9 @@
 
 .result {
   border: 2px solid black;
-  height: 40px;
-  width: 40px;
-  margin-left: 713px;
+  height: 30px;
+  width: 500px;
+  margin-left: 700px;
   display: flex;
   justify-items: center;
   align-items: center;
